@@ -1,0 +1,2 @@
+Nama: Muhammad Naufal Abrar Saputra
+Proyek: Klasifikasi penyakit daun jagung dengan CNN memakai Julia dan Flux.jl (dataset PlantVillage, dengan data augmentation)
